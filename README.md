@@ -15,7 +15,7 @@ To run the Menses Says website locally, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone [https://github.com/bhumika-1127/Menses-Says.git](https://github.com/bhumika-1127/Menses-Says.git)
+git clone https://github.com/bhumika-1127/Menses-Says.git
 ```
 
 2. Navigate into the project directory:
