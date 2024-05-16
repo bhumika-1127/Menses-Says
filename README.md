@@ -20,16 +20,19 @@ git clone https://github.com/bhumika-1127/Menses-say.git
 2. Navigate into the project directory:
 
 ```bash
-cd menses-say```
+cd menses-say
+```
 
 3. Install the dependencies using npm:
 
 ```bash
-npm install```
+npm install
+```
 
 4. Start the server using nodemon:
 
 ```bash
-nodemon index.js```
+nodemon index.js
+```
 
 5. Open your web browser and visit `http://localhost:3000` to view the Menses Say website.
